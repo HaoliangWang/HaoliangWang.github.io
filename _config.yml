@@ -72,7 +72,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/haoliang-wang-7086a9166/"
     - label: "Email"
-      icon: "fa fa-envelope-square"
+      icon: "fas fa-envelope-square"
       url: "mailto:haw027@ucsd.edu"
 
 # footer:

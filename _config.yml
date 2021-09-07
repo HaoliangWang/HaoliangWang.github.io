@@ -53,7 +53,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  # - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
@@ -72,10 +72,10 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/haoliang-wang-7086a9166/"
     - label: "Email"
-      icon: "fab fa-fw fa-email"
-      url: "haw027@ucsd.edu"
+      icon: "fa fa-envelope-square"
+      url: "mailto:haw027@ucsd.edu"
 
-footer:
+# footer:
   # links:
   #   - label: "Twitter"
   #     icon: "fab fa-fw fa-twitter-square"

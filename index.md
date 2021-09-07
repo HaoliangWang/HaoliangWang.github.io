@@ -1,5 +1,6 @@
 ---
-permalink: /about/
+# permalink: /about/
+layout: page
 title: "Hi there!"
 ---
 

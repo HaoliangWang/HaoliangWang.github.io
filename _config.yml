@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Haoliang Wang"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Ph.D. student at UC San Diego studying computational cognitive science."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

@@ -66,13 +66,13 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:haw027@ucsd.edu"
     - label: "Twitter"
-      icon: "fas fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/wang_haoliang?lang=en"
     - label: "GitHub"
-      icon: "fas fa-fw fa-github"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/HaoliangWang"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/haoliang-wang-7086a9166/"
 
 # footer:

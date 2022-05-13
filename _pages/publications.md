@@ -2,6 +2,7 @@
 permalink: /publications/
 title: "Publications"
 ---
+(\* indicates equal contribution)
 
 **Wang, H.**, Allen, K., Vul, E., and Fan, J. (2022). Generalizing physical prediction by composing forces and objects. *Proceedings of the 44th Annual Meeting of the Cognitive Science Society*. [pdf](https://haoliangwang.github.io/assets/papers/Generalizing_physical_prediction_by_composing_forces_and_objects.pdf)
 

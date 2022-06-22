@@ -17,3 +17,15 @@ Brockbank\*, E., **Wang, H.\***, Yang, J.,  Mirchandani, S., Biyik, E., Sadigh, 
 McCarthy\*, W., Hawkins\*, R., **Wang, H.**, Holdaway, C., and Fan, J. (2021). Learning to communicate about shared procedural abstractions. *Proceedings of the 43rd Annual Meeting of the Cognitive Science Society*. [pdf](https://cogtoolslab.github.io/pdf/mccarthy_cogsci_2021b.pdf)
 
 **Wang, H.**, and Fan, J. (2020). Library learning for structured object concepts. *ICML Workshop on Object-Oriented Learning: Perception, Representation, and Reasoning*. [pdf](https://cogtoolslab.github.io/pdf/wang_ool_2020.pdf)
+
+## Projects and writing samples
+
+Video Game Exploit: Hacking Game Assets to Learn 3D Human-Object Interactions. [pdf](https://haoliangwang.github.io/assets/papers/gta
+_dataset.pdf)
+
+<!-- Video Game Exploit: Hacking Game Assets to Learn 3D Human-Object Interactions. *Supplementary materials* [pdf](https://haoliangwang.github.io/assets/papers/gta
+_dataset_sup.pdf) -->
+
+Bridging Weak and Strong Modalities via Adversarial Learning. [pdf](https://haoliangwang.github.io/assets/papers/sketch_gan.pdf)
+
+Bridging Weak and Strong Modalities via Adversarial Learning. *Supplementary materials* [pdf](https://haoliangwang.github.io/assets/papers/sketch_gan_sup.pdf)

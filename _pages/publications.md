@@ -20,7 +20,7 @@ McCarthy\*, W., Hawkins\*, R., **Wang, H.**, Holdaway, C., and Fan, J. (2021). L
 
 # Projects and writing samples
 
-Video Game Exploit: Hacking Game Assets to Learn 3D Human-Object Interactions. [pdf](https://haoliangwang.github.io/assets/papers/gta
+Video game exploit: Hacking game assets to learn 3D human-object interactions. [pdf](https://haoliangwang.github.io/assets/papers/gta
 _dataset.pdf)
 
-Bridging Weak and Strong Modalities via Adversarial Learning. [pdf](https://haoliangwang.github.io/assets/papers/sketch_gan.pdf) [supplementary materials](https://haoliangwang.github.io/assets/papers/sketch_gan_sup.pdf)
+Bridging weak and strong modalities via adversarial learning. [pdf](https://haoliangwang.github.io/assets/papers/sketch_gan.pdf) [supplementary materials](https://haoliangwang.github.io/assets/papers/sketch_gan_sup.pdf)

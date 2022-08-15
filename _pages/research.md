@@ -1,6 +1,5 @@
 ---
 permalink: /research/
-# title: "Publications"
 ---
 # Publications
 (\* indicates equal contribution)

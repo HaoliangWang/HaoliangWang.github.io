@@ -5,7 +5,7 @@ title: "Publications"
 
 (\* indicates equal contribution)
 
-1. Martinez, J., Binder, F., **Wang, H.**, Haber, N., Fan, J., and Yamins, D. (2023). Measuring and Modeling Physical Intrinsic Motivation. *Proceedings of the 45th Annual Meeting of the Cognitive Science Society*.
+1. Martinez, J., Binder, F., **Wang, H.**, Haber, N., Fan, J., and Yamins, D. (2023). Measuring and Modeling Physical Intrinsic Motivation. *Proceedings of the 45th Annual Meeting of the Cognitive Science Society*. [pdf](https://arxiv.org/pdf/2305.13452.pdf)
 
 2. **Wang, H.**, Allen, K., Vul, E., and Fan, J. (2022). Generalizing physical prediction by composing forces and objects. *Proceedings of the 44th Annual Meeting of the Cognitive Science Society*. [pdf](https://haoliangwang.github.io/assets/papers/Generalizing_physical_prediction_by_composing_forces_and_objects.pdf)
 

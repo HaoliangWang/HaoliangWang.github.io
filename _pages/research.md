@@ -5,7 +5,7 @@ title: "Publications"
 
 (\* indicates equal contribution)
 
-1. **Wang, H.**, Jedoui, K., Venkatesh, R., Binder, F., Tenenbaum, J., Yamins, D., Fan, J., and Smith, K.. Modeling and evaluating how the brain makes physical predictions. *Neuroscience 2023*.
+1. **Wang, H.**, Jedoui, K., Venkatesh, R., Binder, F., Tenenbaum, J., Yamins, D., Fan, J., and Smith, K. (2023). Modeling and evaluating how the brain makes physical predictions. *Neuroscience 2023*.
 
 2. Martinez, J., Binder, F., **Wang, H.**, Haber, N., Fan, J., and Yamins, D. (2023). Measuring and Modeling Physical Intrinsic Motivation. *Proceedings of the 45th Annual Meeting of the Cognitive Science Society*. [pdf](https://arxiv.org/pdf/2305.13452.pdf)
 

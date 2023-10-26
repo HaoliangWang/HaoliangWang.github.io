@@ -5,7 +5,7 @@ title: "Publications"
 
 (\* indicates equal contribution)
 
-1. **Wang, H.**, Jedoui, K., Venkatesh, R., Binder, F., Tenenbaum, J., Yamins, D., Fan, J., and Smith, K. (2023). Modeling and evaluating how the brain makes physical predictions. *Neuroscience 2023*.
+1. **Wang\*, H.**, Jedoui\*, K., Venkatesh\*, R., Binder\*, F., Tenenbaum, J., Yamins, D., Fan, J., and Smith, K. (2023). Modeling and evaluating how the brain makes physical predictions. *Neuroscience 2023*.
 
 2. Martinez, J., Binder, F., **Wang, H.**, Haber, N., Fan, J., and Yamins, D. (2023). Measuring and Modeling Physical Intrinsic Motivation. *Proceedings of the 45th Annual Meeting of the Cognitive Science Society*. [pdf](https://arxiv.org/pdf/2305.13452.pdf)
 
@@ -13,7 +13,7 @@ title: "Publications"
 
 4. **Wang, H.**, Yang, J., Tamari, R., and Fan, J. (2022). Communicating understanding of physical dynamics in natural language. *Proceedings of the 44th Annual Meeting of the Cognitive Science Society*. [pdf](https://haoliangwang.github.io/assets/papers/Communicating_understanding_of_physical_dynamics_in_natural_language.pdf)
 
-5. Brockbank\*, E., **Wang, H.\***, Yang, J.,  Mirchandani, S., Biyik, E., Sadigh, D., and Fan, J. (2022). How do people incorporate advice from artificial agents when making physical judgments? *Proceedings of the 44th Annual Meeting of the Cognitive Science Society*. [pdf](https://haoliangwang.github.io/assets/papers/How_do_people_incorporate_advice_from_artificial_agents_when_making_physical_judgments.pdf)
+5. Brockbank\*, E., **Wang\*, H.**, Yang, J.,  Mirchandani, S., Biyik, E., Sadigh, D., and Fan, J. (2022). How do people incorporate advice from artificial agents when making physical judgments? *Proceedings of the 44th Annual Meeting of the Cognitive Science Society*. [pdf](https://haoliangwang.github.io/assets/papers/How_do_people_incorporate_advice_from_artificial_agents_when_making_physical_judgments.pdf)
 
 6. **Wang, H.**, Polikarpova, N., and Fan, J. (2021). Learning part-based abstractions for visual object concepts. *Proceedings of the 43rd Annual Meeting of the Cognitive Science Society*. [pdf](https://cogtoolslab.github.io/pdf/wang_cogsci_2021a.pdf)
 

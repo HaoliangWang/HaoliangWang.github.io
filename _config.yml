@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Haoliang Wang"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD student at UC San Diego studying computational cognitive science."
+  # bio    : "PhD student at UC San Diego studying computational cognitive science."
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

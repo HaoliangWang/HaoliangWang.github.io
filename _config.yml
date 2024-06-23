@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : ""
+  # name   : "Haoliang Wang"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : ""
   links:

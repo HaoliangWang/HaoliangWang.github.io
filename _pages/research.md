@@ -5,7 +5,7 @@ title: "Publications"
 
 (\* indicates equal contribution)
 
-1. **Wang\, H.**, Jedoui\, K., Venkatesh\, R., Binder\, F., Tenenbaum, J., Fan, J., Yamins, D., and Smith, K. (2024). Probabilistic simulation supports generalizable intuitive physics. *Proceedings of the 46th Annual Meeting of the Cognitive Science Society*. [pdf](https://escholarship.org/content/qt93j3f86q/qt93j3f86q_noSplash_cc592224fe0e74bb9c5a779349e62558.pdf)
+1. **Wang, H.**, Jedoui, K., Venkatesh, R., Binder, F., Tenenbaum, J., Fan, J., Yamins, D., and Smith, K. (2024). Probabilistic simulation supports generalizable intuitive physics. *Proceedings of the 46th Annual Meeting of the Cognitive Science Society*. [pdf](https://escholarship.org/content/qt93j3f86q/qt93j3f86q_noSplash_cc592224fe0e74bb9c5a779349e62558.pdf)
 
 2. Martinez, J., Binder, F., **Wang, H.**, Haber, N., Fan, J., and Yamins, D. (2023). Measuring and Modeling Physical Intrinsic Motivation. *Proceedings of the 45th Annual Meeting of the Cognitive Science Society*. [pdf](https://arxiv.org/pdf/2305.13452.pdf)
 

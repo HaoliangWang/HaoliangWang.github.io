@@ -24,10 +24,3 @@ title: "Publications"
 9. McCarthy\*, W., Hawkins\*, R., **Wang, H.**, Holdaway, C., and Fan, J. (2021). Learning to communicate about shared procedural abstractions. *Proceedings of the 43rd Annual Meeting of the Cognitive Science Society*. [pdf](https://cogtoolslab.github.io/pdf/mccarthy_cogsci_2021b.pdf)
 
 10. **Wang, H.**, and Fan, J. (2020). Library learning for structured object concepts. *ICML Workshop on Object-Oriented Learning: Perception, Representation, and Reasoning*. [pdf](https://cogtoolslab.github.io/pdf/wang_ool_2020.pdf)
-
-# Projects and writing samples
-
-1. Video game exploit: Hacking game assets to learn 3D human-object interactions. [pdf](https://haoliangwang.github.io/assets/papers/gta
-_dataset.pdf)
-
-2. Bridging weak and strong modalities via adversarial learning. [pdf](https://haoliangwang.github.io/assets/papers/sketch_gan.pdf) [supplementary materials](https://haoliangwang.github.io/assets/papers/sketch_gan_sup.pdf)

@@ -5,6 +5,8 @@ title: "Publications"
 
 (\* indicates equal contribution)
 
+1. **Wang, H.**, Gothoskar, N., Tenenbaum, J., and Smith, K. (2025). From pixels to physics: an image-computable model of physical predictions. *Proceedings of the 47th Annual Meeting of the Cognitive Science Society*.
+
 1. Jedoui, K., Venkatesh, R., **Wang, H.**, O’Connell, T., Bai, Y., Tenenbaum, J., Fan, J., Smith, K., and Yamins, D. (2024). Towards task-appropriate readout mechanisms for physical scene understanding. *Cognitive Computational Neuroscience*. [pdf](https://2024.ccneuro.org/pdf/605_Paper_authored_Towards_Task_Appropriate_Readout_Mechanisms_For_Cognitive_Benchmarking___Khaled_CCN.pdf)
 
 2. **Wang, H.**, Jedoui, K., Venkatesh, R., Binder, F., Tenenbaum, J., Fan, J., Yamins, D., and Smith, K. (2024). Probabilistic simulation supports generalizable intuitive physics. *Proceedings of the 46th Annual Meeting of the Cognitive Science Society*. [pdf](https://escholarship.org/content/qt93j3f86q/qt93j3f86q_noSplash_cc592224fe0e74bb9c5a779349e62558.pdf)

@@ -76,7 +76,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/haoliang-wang-7086a9166/"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-google"
+      icon: "fa-brands fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?user=5jv3XVIAAAAJ&hl=en"
 
 # footer:
